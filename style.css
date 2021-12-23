@@ -1,0 +1,22 @@
+img {
+    width:300px;
+    height: auto;
+}
+
+* {
+    background-color:#575654;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color:#97daf0;
+}
+
+h1 {
+    color: #edb785;
+}
+
+h3, h4, h5, li, p{
+    color:white;
+}
+
